@@ -93,7 +93,7 @@ const Hero = () => {
           <RxHamburgerMenu size={30} />
         </label>
       </div>
-      <div className="flex flex-col justify-between items-start p-2 bg-red-100">
+      <div className="flex flex-col justify-between items-start p-5 h-full">
         <div className="stats shadow">
           <div className="stat">
             <div className="stat-title text-secondary">Retirement Income</div>
